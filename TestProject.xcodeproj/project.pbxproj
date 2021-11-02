@@ -24,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		041BDC182731358600852D1C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		044ABB72267D2D1800CDEC9A /* TodayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayViewController.swift; sourceTree = "<group>"; };
 		044ABB75267D2D4100CDEC9A /* ForecastViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastViewController.swift; sourceTree = "<group>"; };
 		044ABB79267D5A6100CDEC9A /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
@@ -59,6 +60,7 @@
 		04B7ECED267D24CD0005DE5B = {
 			isa = PBXGroup;
 			children = (
+				041BDC182731358600852D1C /* README.md */,
 				04B7ECF8267D24CD0005DE5B /* TestProject */,
 				04B7ECF7267D24CD0005DE5B /* Products */,
 				6542DE0BDB501A3D57FC1E99 /* Pods */,
